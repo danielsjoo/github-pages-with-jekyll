@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Daniel's blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+In this blog, I will practice making a blog
